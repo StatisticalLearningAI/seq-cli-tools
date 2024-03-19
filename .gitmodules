@@ -1,0 +1,6 @@
+[submodule "lib/seq.zig"]
+	path = lib/seq.zig
+	url = git@github.com:StatisticalLearningAI/seq.zig.git
+[submodule "lib/yazap"]
+	path = lib/yazap
+	url = git@github.com:StatisticalLearningAI/yazap.git
